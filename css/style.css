@@ -29,7 +29,7 @@ img {
   border-radius: 50%;
   border: 5px #333 solid;
   margin-bottom: 1rem;
-  max-width: 15em;
+  /* max-width: 15em; */
 }
 
 .male {
